@@ -11,7 +11,6 @@ A curated list of free platforms to get started with coding.
 * [Free4arab](https://free4arab.net/)
 * [OpenLearn](https://www.open.edu/openlearn/)
 * [Open Culture](https://www.openculture.com/freeonlinecourses)
-* [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses)
 * [UdemyFreeCourses](https://udemyfreecourses.org/)
 * [SkillUp by Simplilearn](https://www.simplilearn.com/skillup-free-online-courses)
 * [CognitiveClass](https://cognitiveclass.ai/)
