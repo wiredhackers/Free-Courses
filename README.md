@@ -4,6 +4,8 @@ A curated list of free platforms to get started with coding.
 * [FreeCodeCamp](https://www.freecodecamp.org/)
 * [OSSU](https://ossu.firebaseapp.com/)
 * [The Odin Project](https://www.theodinproject.com/)
+* [100 Devs](https://leonnoel.com/100devs/)
+* [Full Stack Open](https://fullstackopen.com/en/)
 * [Programiz](https://www.programiz.com/)
 * [DevTube](https://dev.tube/)
 * [Khan Academy](https://www.khanacademy.org/)
